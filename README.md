@@ -8,4 +8,4 @@
   
 ## 
   
-![Snake animation](https://github.com/acampospsantos/acampospsantos/blob/output/github-contribution-grid-snake.svg)
+
