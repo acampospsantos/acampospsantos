@@ -14,7 +14,7 @@
   <img align="center" alt="Antsu-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
-## Aprendendo 
+## Em fase de aprendizado... 
 <div style="display: inline_block"><br>
   <img align="center" alt="Antsu-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Antsu-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
