@@ -11,7 +11,7 @@
 - 🌍 I’m based in Recife - Brazil
 - 💻 All of my projects are available at https://github.com/acampospsantos
 - 💻 My arduino projects: https://www.tinkercad.com/dashboard/designs/circuits
-- ✉️ How to reach me: acampospsantos@hotmail.com
+- ✉️ Drop me a message: acampospsantos@hotmail.com
 
 
 ## 🛠️ Technologies I’m familiar with
