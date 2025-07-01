@@ -26,7 +26,7 @@ Here are some technologies and tools I have worked with:
 </div>
 
 ## 📚 Learning...
-Here are some technologies I’m currently exploring:
+Here are some technologies I’m exploring:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Antsu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
