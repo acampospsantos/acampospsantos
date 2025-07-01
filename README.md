@@ -24,7 +24,7 @@ Here are some technologies and tools I have worked with:
   <img align="center" alt="Antsu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-## 📚 Currently Learning
+## 📚 Learning...
 Here are some technologies I’m currently exploring:
 
 <div style="display: inline_block"><br>
